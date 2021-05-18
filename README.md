@@ -24,3 +24,9 @@ login[]---------|----------profile{Name branch -- [sem]dorpdown[]}		     |
 					table:form
 				)
 			   
+pages:
+	home page(login for tech..,students)
+		login(students)----(email(collage ka sub domain), password):
+			student profiles
+		login(techers)----(email(collage ka sub domain), password):
+			teahers profiles
