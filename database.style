@@ -1,0 +1,17 @@
+{
+                           can create class
+teacher(kick,join):--------------------------------------|--------------admin(kick,backlist)
+                                |                        |
+            |------------{whole database}---|            |
+student:----|                               |            |
+                                            |            |
+                                            |___________{class}
+}
+
+schene{
+t1(join) login class-------------admin()
+                |
+                |
+s1 ------|(rollnumber)
+
+}
