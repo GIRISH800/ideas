@@ -30,3 +30,11 @@ pages:
 			student profiles
 		login(techers)----(email(collage ka sub domain), password):
 			teahers profiles
+
+teames {
+	frontend leader: sid;
+	assist leader: sonali;
+	backend leader: ansh;
+}
+
+11 days to go --->
