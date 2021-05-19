@@ -1,6 +1,6 @@
 {
                            can create class
-teacher(kick,join):--------------------------------------|--------------admin(kick,backlist)
+teacher(join):--------------------------------------|--------------admin(kick,backlist)
                                 |                        |
             |------------{whole database}---|            |
 student:----|                               |            |
